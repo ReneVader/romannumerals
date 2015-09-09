@@ -1,6 +1,6 @@
 allprojects {
     // IMPORTANT: Change group do something unique for you 
-    group 'rene.circus.praqma' 
+    group 'renevader.circus.praqma' 
     version '0.1-SNAPSHOT'
 
 
